@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, stranger 👋
+
+
+- 📫 How to reach me: valtteri1010@pm.me
+- ⚡ Fun fact: cats
 
 <!--
 **valtteri1010/valtteri1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
